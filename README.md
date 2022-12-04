@@ -5,7 +5,7 @@ Este proyecto es un ejemplo de desarrollo de una API REST aplicando Arquitectura
 
 Clonar el repositorio en tu equipo:
 
-> git clone xxxx
+> git clone https://github.com/AmadorBF/demo.git
 
 Importar el proyecto mediante IntelliJ IDEA
 
