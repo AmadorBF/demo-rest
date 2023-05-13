@@ -3,7 +3,6 @@ package com.test.demo.infrastructure.repository.model;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.sql.Timestamp;
-import java.util.Date;
 
 import jakarta.persistence.*;
 import lombok.Data;
